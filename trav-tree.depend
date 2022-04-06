@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1649245817 source:/home/paul/Desktop/multi/trav-tree/main.cpp
+	<iostream>
+	"Tree.h"
+
+1649245082 source:/home/paul/Desktop/multi/trav-tree/src/Node.cpp
+	"Node.h"
+
+1649245077 /home/paul/Desktop/multi/trav-tree/include/Node.h
+
+1649245843 source:/home/paul/Desktop/multi/trav-tree/src/Tree.cpp
+	"Tree.h"
+	"Node.h"
+	<iostream>
+
+1649245811 /home/paul/Desktop/multi/trav-tree/include/Tree.h
+	"Node.h"
+
